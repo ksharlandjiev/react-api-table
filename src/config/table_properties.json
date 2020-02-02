@@ -1,0 +1,18 @@
+{    
+    "columns": [ 
+        { "dataField": "id", "text": "Product ID" }, 
+        { "dataField": "book_author", "text": "Author" }, 
+        { "dataField": "book_title", "text": "Title" }, 
+        { "dataField": "book_publication_year", "text": "Published" }, 
+        { "dataField": "book_publication_country", "text": "Country" }, 
+        { "dataField": "book_publication_city", "text": "City" }, 
+        { "dataField": "book_pages", "text": "Total Pages" } 
+    ],
+    "select_options": [ 
+        { "text": "5", "value": 5 }, 
+        { "text": "10", "value": 10 }, 
+        { "text": "20", "value": 20 }, 
+        { "text": "30", "value": 30 }, 
+        { "text": "50", "value": 50 }
+    ]
+}
