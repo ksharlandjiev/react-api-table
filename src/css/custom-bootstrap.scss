@@ -1,0 +1,17 @@
+// Override default variables before the import
+$primary: #1D7874;
+// Import Bootstrap and its default variables
+@import '~bootstrap/scss/bootstrap.scss';
+
+// general styling
+.pagination {
+    float: right;
+}
+.table { 
+    margin-top:5em;
+}
+.spinner-border { 
+    position:fixed;
+    top:50%;
+    left:50%
+}
