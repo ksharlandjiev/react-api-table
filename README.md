@@ -1,3 +1,5 @@
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=ksharlandjiev_react-api-table&metric=alert_status)](https://sonarcloud.io/dashboard?id=ksharlandjiev_react-api-table)
+
 # React table with remote API data
 
 ## Background
